@@ -636,8 +636,8 @@ html {
     .menu li {
         display:block;
         text-align: center;
-        padding: 2px;
-        margin-left: 15px;
+        padding: 3px;
+        margin-left: 18px;
 
 
     }
@@ -646,7 +646,7 @@ html {
         display: none;
     }
     .menu_items li a{
-        font-size: 10px;
+        font-size: 9px;
         
 
         padding: 9px;
