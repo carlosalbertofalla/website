@@ -646,10 +646,10 @@ html {
         display: none;
     }
     .menu_items li a{
-        font-size: 9px;
+        font-size: 10px;
         
 
-        padding: 11px;
+        padding: 9px;
         font-weight: bold;
 
         color:#ffc310;
