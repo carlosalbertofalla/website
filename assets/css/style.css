@@ -43,7 +43,7 @@ body {
 .menu_items{
     display: flex;
     list-style: none;
-    margin-right: 60px;
+    margin-right: 110px;
 }
 
 .menu_items li{
