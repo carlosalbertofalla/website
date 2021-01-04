@@ -657,7 +657,7 @@ html {
         margin-right: 20px;
     }
     .menu_items li a{
-        font-size: 10px;
+        font-size: 12px;
         
 
         padding:  3px 5px 3px 5px;
@@ -671,7 +671,7 @@ html {
     
     position: absolute;
     left: 35px;
-        top:25px;
+        top:45px;
 
     
     width: 35px;
