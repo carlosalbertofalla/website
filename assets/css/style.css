@@ -644,7 +644,7 @@ html {
         display:block;
         text-align: center;
         padding: 5px;
-        margin-left: 10px;
+        margin-left: 15px;
 
 
     }
@@ -657,7 +657,7 @@ html {
         margin-right: 20px;
     }
     .menu_items li a{
-        font-size: 11px;
+        font-size: 12px;
         
 
         padding:  3px 5px 3px 5px;
