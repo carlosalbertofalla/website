@@ -643,7 +643,7 @@ html {
     .menu li {
         display:block;
         text-align: center;
-        padding: 3px;
+        padding: 5px;
         margin-left: 15px;
 
 
@@ -671,7 +671,8 @@ html {
     
     position: absolute;
     left: 35px;
-    bottom: 505px;
+        top:25px;
+
     
     width: 35px;
         transition: .5s;
