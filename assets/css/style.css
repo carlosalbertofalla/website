@@ -248,7 +248,7 @@ p {
     font-size: 40px;
   cursor: pointer;
  position: absolute;
-  left: 50%;
+  left: 48%;
   color: #804e7b;
     margin-top: 840px;
 
@@ -727,7 +727,7 @@ html {
       margin-top: 650px;
      cursor: pointer;
     position: absolute;
-     left: 50%;
+     left: 48%;
        color:#561846 ;
      
      transition: .3s;
